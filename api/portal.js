@@ -1,1 +1,1 @@
-window.alert('Welcome to Axis Cloud Portal. Click OK to proceed.')
+window.alert('Welcome to Bit Cloud Portal. Click OK to proceed.')
