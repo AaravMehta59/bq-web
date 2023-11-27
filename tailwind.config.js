@@ -11,8 +11,7 @@ module.exports = {
                 "3xl": "0px 5px 10px rgba(4, 10, 34, .2)"
             }
         }, fontFamily: {
-            "Inter": '"Inter", sans-serif',
-            'sans': ['Montserrat']
+            "Inter": '"Inter", sans-serif'
         },
     }, plugins: [],
 }
