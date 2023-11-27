@@ -1,1 +1,0 @@
-window.alert('Welcome to Bit Cloud Portal. Click OK to proceed.')
