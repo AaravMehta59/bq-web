@@ -1,3 +1,5 @@
+// COPYRIGHT PROPERTY OF BITQUOTE CO.
+
 const header = document.getElementById("header");
 window.addEventListener("scroll", function () {
     if (scrollY > 50) {

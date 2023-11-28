@@ -1245,7 +1245,7 @@ video {
 }
 
 .bg-\[url\(\'\/img\/bg-help\.svg\'\)\] {
-  background-image: url('/img/bg-help.svg');
+  background-image: url('../img/bg-help.svg');
 }
 
 .bg-contain {
